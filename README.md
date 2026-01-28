@@ -22,17 +22,6 @@ DExpr is a lightweight, high-performance expression parser and evaluator for Jav
 - **Functions**: Extensible function system
 - **Parentheses**: Full support for expression grouping
 
-## Installation
-
-### Maven
-
-```xml
-<dependency>
-    <groupId>com.github.comelf</groupId>
-    <artifactId>dexpr</artifactId>
-    <version>1.0.0</version>
-</dependency>
-```
 
 ## Quick Start
 
